@@ -22,6 +22,8 @@
 |:--------------|:-----|:-----------|
 | QWorld | [qworld.net](https://qworld.net) | non-profit global organization that brings quantum computing researchers & enthusiasts together |
 | Quantum Open Source Foundation | [qosf.org](https://qosf.org) | supporting the development and standardization of open tools for quantum computing |
+| Quantum Algorithm Zoo | [quantumalgorithmzoo.org](https://quantumalgorithmzoo.org/) | comprehensive catalog of quantum algorithms with links for more information |
+| Open Quantum Safe | [openquantumsafe.org](https://openquantumsafe.org/) | open-source project supporting the development of quantum-resistant cryptography |
 
 ## :books: Books
 
@@ -37,3 +39,4 @@
 |:---------------|:-------------------------------------------------|:-----------------------------------------------------------------------------|
 | Qubit by Qubit | [qubitbyqubit.org](https://www.qubitbyqubit.org) | year-long global quantum computing course for high school students and above |
 | Fundamentals of Quantum Computing (LFQ101) | [trainingportal.linuxfoundation.org/learn/course/fundamentals-of-quantum-computing-lfq101/understanding-quantum-computing/overview-of-technology](https://trainingportal.linuxfoundation.org/learn/course/fundamentals-of-quantum-computing-lfq101/understanding-quantum-computing/overview-of-technology) | short quantum computing course, including security advantages and danger |
+| Quantum School for Young Students | [https://uwaterloo.ca/institute-for-quantum-computing/qsys](https://uwaterloo.ca/institute-for-quantum-computing/qsys) | hybrid summer program to teach high school students about quantum information |

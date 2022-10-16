@@ -15,6 +15,13 @@
 |:------------------|:-----------------------------------------------------------------------------------------------------------|:-----------|
 | Quantum Flytrap   | [quantumflytrap.com](https://quantumflytrap.com), [lab.quantumflytrap.com](https://lab.quantumflytrap.com) | no-code IDE for Quantum Computing |
 | Hello Quantum App | [helloquantum.mybluemix.net](https://helloquantum.mybluemix.net) | puzzle game designed to teach introductory principles of quantum computing |
+| QPlayLearn | [qplaylearn.com](https://qplaylearn.com) | interactive tools to make the learning process more effective and fun |
+
+## :desktop_computer: Websites
+| name | link | description |
+|:--------------|:-----|:-----------|
+| QWorld | [qworld.net](https://qworld.net) | non-profit global organization that brings quantum computing researchers & enthusiasts together |
+| Quantum Open Source Foundation | [qosf.org](https://qosf.org) | supporting the development and standardization of open tools for quantum computing |
 
 ## :books: Books
 

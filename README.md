@@ -1,4 +1,4 @@
-![quantum_banner](https://user-images.githubusercontent.com/95103224/196150112-e0d61c9c-654e-435e-8b98-2331ec356176.gif)
+![quantum_banner](https://user-images.githubusercontent.com/95103224/196238693-cbbf73a3-4b01-4a9c-98f7-a4a8de7cc52a.gif)
 
 # ℚ𝕦𝕒𝕟𝕥𝕦𝕞
 

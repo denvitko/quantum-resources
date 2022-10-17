@@ -25,6 +25,7 @@
 | Quantum Open Source Foundation | [qosf.org](https://qosf.org) | supporting the development and standardization of open tools for quantum computing |
 | Quantum Algorithm Zoo | [quantumalgorithmzoo.org](https://quantumalgorithmzoo.org/) | comprehensive catalog of quantum algorithms with links for more information |
 | Open Quantum Safe | [openquantumsafe.org](https://openquantumsafe.org/) | open-source project supporting the development of quantum-resistant cryptography |
+| QURECA Education | [qureca.com/education/](https://qureca.com/education/) | list of online educational resources to help enhance quantum knowledge |
 
 ## :books: Books, Notes, Papers & Other
 

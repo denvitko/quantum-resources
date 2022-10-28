@@ -13,7 +13,7 @@
 
 | name | description |
 |:------------------------------|:-----------|
-| Quantum Flytrap<a href= "https://quantumflytrap.com" alt= "[quantumflytrap.com]">[1]</a> <a href= "https://lab.quantumflytrap.com" alt = "[lab.quantumflytrap.com]">[2]</a> | no-code IDE for Quantum Computing |
+| Quantum Flytrap <a href= "https://quantumflytrap.com" alt= "[quantumflytrap.com]">[1]</a> <a href= "https://lab.quantumflytrap.com" alt = "[lab.quantumflytrap.com]">[2]</a> | no-code IDE for Quantum Computing |
 | <a href = "https://helloquantum.mybluemix.net" alt = "[helloquantum.mybluemix.net]">Hello Quantum App</a> | puzzle game designed to teach introductory principles of quantum computing |
 | <a href="https://qplaylearn.com" alt = "[qplaylearn.com]">QPlayLearn</a> | interactive tools to make the learning process more effective and fun |
 
@@ -21,11 +21,12 @@
 
 | name | description |
 |:--------------|:-----------|
-| <a href="https://qworld.net" alt="[qworld.net]">QWorld</a>  | non-profit global organization that brings quantum computing researchers & enthusiasts together |
+| <a href="https://qworld.net" alt="[qworld.net]">QWorld</a> <a href="https://gitlab.com/qworld" alt="[gitlab.com/qworld]">(GitLab)</a>  | non-profit global organization that brings quantum computing researchers & enthusiasts together |
 | <a href = "https://qosf.org" alt = "[qosf.org]">Quantum Open Source Foundation</a> | supporting the development and standardization of open tools for quantum computing |
 | <a href = "https://quantumalgorithmzoo.org/" alt="[quantumalgorithmzoo.org]">Quantum Algorithm Zoo</a> | comprehensive catalog of quantum algorithms with links for more information |
 | <a href = "https://openquantumsafe.org/" alt = "[openquantumsafe.org]">Open Quantum Safe</a> | open-source project supporting the development of quantum-resistant cryptography |
 | <a href= "https://qureca.com/education/" alt = "[qureca.com/education/]">QURECA Education</a> | list of online educational resources to help enhance quantum knowledge |
+| <a href="https://www.qaif.org/home" alt="[qaif.org/home]"> Quantum AI Foundation</a> | charity organization, focus on new technologies (Artificial Intelligence and Quantum Computing) |
 
 ## :books: Books, Notes, Papers & Other
 
@@ -57,3 +58,9 @@
 |:--------------------|:----------------------------------------------------------|
 | <a href="https://codecamp.xanadu.ai" alt = "[codecamp.xanadu.ai]">PennyLane Code Camp</a> | three weeks of quantum coding challenges, November 1 2022 |
 | <a href= "https://research.ibm.com/blog/quantum-challenge-fall-2022" alt = "[research.ibm.com/blog/quantum-challenge-fall-2022]">IBM Quantum Challenge Fall 2022</a>  | November 11, eight days of learning and exploring applications in QC |
+| <a href="https://www.quantumcomputingchallenge.com/" alt="[quantumcomputingchallenge.com]">QPARC Challenge 2022</a> | past challenge focused on quantum chemistry and material development |
+
+## Repos
+| name | user | description |
+|:-----|:-----|:------------|
+| <a href="https://gitlab.com/users/qkitchen/projects" alt="[gitlab.com/users/qkitchen/projects]">Quantum Repo</a> | @qkitchen | quantum projects on GitLab |

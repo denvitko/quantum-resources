@@ -32,13 +32,14 @@
 
 | name                                 | author(s)          |
 |:-------------------------------------|:-------------------|
-| <a href = "http://www.stat.ucla.edu/~ywu/linear.pdf" alt = "[www.stat.ucla.edu/~ywu/linear.pdf]">The Mathematics of Quantum Mechanics</a>| Martin Laforest, PhD |
 | <a href = "https://csis.pace.edu/~ctappert/cs837-19spring/QC-textbook.pdf" alt = "[csis.pace.edu/~ctappert/cs837-19spring/QC-textbook.pdf]">Quantum Computation and Quantum Information</a>| Michael A. Nielsen, Isaac L. Chuang |
+| <a href = "http://www.stat.ucla.edu/~ywu/linear.pdf" alt = "[www.stat.ucla.edu/~ywu/linear.pdf]">The Mathematics of Quantum Mechanics</a> | Martin Laforest, PhD |
 | <a href = "https://www.fi.muni.cz/usr/gruska/qbook1.pdf" alt = "[www.fi.muni.cz/usr/gruska/qbook1.pdf]">Quantum Computing</a>             |         Jozef Gruska |
 | <a href = "https://library.oapen.org/bitstream/id/bbd21fd2-1c26-4467-98e7-e20519f2185f/9783030616014.pdf" alt ="[library.oapen.org/bitstream/id/bbd21fd2-1c26-4467-98e7-e20519f2185f/9783030616014.pdf]">Quantum Computing for the Quantum Curious</a> | Joshua Isaacson, Ciaran Hughes, Anastasia Perry, Jessica Turner, Ranbel F. Sun |
 | <a href = "https://github.com/dmvaldman/library/blob/master/computer%20science/Aaronson%20-%20Quantum%20Computing%20Since%20Democritus.pdf" alt = "[github.com/dmvaldman/library/blob/master/computer%20science/Aaronson%20-%20Quantum%20Computing%20Since%20Democritus.pdf]">Quantum Computing since Democritus</a> | Scott Aaronson |
 | <a href = "https://www.lorentz.leidenuniv.nl/quantumcomputers/literature/preskill_1_to_6.pdf" alt = "[www.lorentz.leidenuniv.nl/quantumcomputers/literature/preskill_1_to_6.pdf]">Lecture Notes for Physics 229: Quantum Information and Computation | John Preskill, Caltech |
 | <a href = "http://webéducation.com/wp-content/uploads/2018/07/In-Search-of-Schr%C3%B6dingers-Cat.pdf" alt = "[webéducation.com/wp-content/uploads/2018/07/In-Search-of-Schr%C3%B6dingers-Cat.pdf]">In Search Of Schrodinger's Cat</a> | John Gribbin |
+| <a href="https://superstrings.notion.site/Exploring-Quantum-Theory-with-Qubits-a4b99196fcdf4dceb3f7f4e96d6f00f2" alt="[superstrings.notion.site/Exploring-Quantum-Theory-with-Qubits-a4b99196fcdf4dceb3f7f4e96d6f00f2]">Exploring Quantum Theory with Qubits</a> | Kristina P., Denisa V., Berenika Z. & Subhroneel C.
 
 ## :mortar_board: Courses & Lectures
 
@@ -56,8 +57,7 @@
 ## :trophy: Challenges
 | name                | description                                               |
 |:--------------------|:----------------------------------------------------------|
-| <a href="https://codecamp.xanadu.ai" alt = "[codecamp.xanadu.ai]">PennyLane Code Camp</a> | three weeks of quantum coding challenges, November 1 2022 |
-| <a href= "https://research.ibm.com/blog/quantum-challenge-fall-2022" alt = "[research.ibm.com/blog/quantum-challenge-fall-2022]">IBM Quantum Challenge Fall 2022</a>  | November 11, eight days of learning and exploring applications in QC |
+| <a href="https://github.com/qosf/monthly-challenges" alt = "[github.com/qosf/monthly-challenges]">QOSF Monthly Challenges</a> | monthly challenges in the field of quantum computing |
 | <a href="https://www.quantumcomputingchallenge.com/" alt="[quantumcomputingchallenge.com]">QPARC Challenge 2022</a> | past challenge focused on quantum chemistry and material development |
 
 ## Repos

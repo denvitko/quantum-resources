@@ -381,3 +381,12 @@ def ci_cal(p,r,t):
     if x == 'Monthly':
         l = (p*(1+(r/12)/100)**(12*t)) - p
     return f'Your total compunded interest is : {l+p}'
+
+#Code 26 - Find triangle area formula
+
+def triangle(base,height):
+    area = (base*height)/2
+    return area
+#Code 27 - Heron's Formula
+def heron(a,b,c):
+    return (a+b+c)/2
